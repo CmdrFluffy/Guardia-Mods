@@ -1,0 +1,79 @@
+
+itemGroup.coretab=Guardian Core
+itemGroup.tooltab=Guardian Tools & Armor
+
+item.ingot_copper.name=Copper Ingot
+item.ingot_tin.name=Tin Ingot
+item.ingot_aluminum.name=Aluminum Ingot
+item.ingot_azurium.name=Azurium Ingot
+
+item.nugget_copper.name=Copper Nugget
+item.nugget_tin.name=Tin Nugget
+item.nugget_aluminum.name=Aluminum Nugget
+item.nugget_azurium.name=Azurium Nugget
+
+item.shard_blackrock.name=Blackrock Shard
+
+item.dust_copper.name=Copper Dust
+item.dust_tin.name=Tin Dust
+item.dust_aluminum.name=Aluminum Dust
+item.dust_azurium.name=Azurium Dust
+item.dust_blackrock.name=Blackrock Dust
+item.dust_aether.name=A'Ether Dust
+
+item.axe_copper.name=Copper Axe
+item.axe_aluminum.name=Aluminum Axe
+item.axe_tin.name=Tin Axe
+item.axe_azurium.name=Azurium Axe
+
+item.pickaxe_copper.name=Copper Pickaxe
+item.pickaxe_aluminum.name=Aluminum Pickaxe
+item.pickaxe_tin.name=Tin Pickaxe
+item.pickaxe_azurium.name=Azurium Pickaxe
+
+item.shovel_copper.name=Copper Shovel
+item.shovel_aluminum.name=Aluminum Shovel
+item.shovel_tin.name=Tin Shovel
+item.shovel_azurium.name=Azurium Shovel
+
+item.hoe_copper.name=Copper Hoe
+item.hoe_aluminum.name=Aluminum Hoe
+item.hoe_tin.name=Tin Hoe
+item.hoe_azurium.name=Azurium Hoe
+
+item.sword_copper.name=Copper Sword
+item.sword_aluminum.name=Aluminum Sword
+item.sword_tin.name=Tin Sword
+item.sword_azurium.name=Azurium Sword
+
+item.helmet_copper.name=Copper Helmet
+item.helmet_tin.name=Tin Helmet
+item.helmet_aluminum.name=Aluminum Helmet
+item.helmet_azurium.name=Azurium Helmet
+
+item.chestplate_copper.name=Copper Chestplate
+item.chestplate_tin.name=Tin Chestplate
+item.chestplate_aluminum.name=Aluminum Chestplate
+item.chestplate_azurium.name=Azurium Chestplate
+
+item.leggings_copper.name=Copper leggings
+item.leggings_tin.name=Tin leggings
+item.leggings_aluminum.name=Aluminum leggings
+item.leggings_azurium.name=Azurium leggings
+
+item.boots_copper.name=Copper boots
+item.boots_tin.name=Tin boots
+item.boots_aluminum.name=Aluminum boots
+item.boots_azurium.name=Azurium boots
+
+tile.block_copper.name=Copper Block
+tile.block_tin.name=Tin Block
+tile.block_aluminum.name=Aluminum Block
+tile.block_azurium.name=Azurium Block
+
+tile.ore_overworld_copper.name=Copper Ore
+tile.ore_overworld_bauxite.name=Bauxite Ore
+tile.ore_overworld_cassiterite.name=Cassiterite Ore
+tile.ore_nether_azurium.name=Azurium Ore
+tile.ore_nether_blackrock.name= Blackrock Ore
+tile.ore_end_aether.name= A'Ether Ore

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item":"gcm:ingot_aluminum"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gcm:block_aluminum",
+        "count": 1        
+    }
+}

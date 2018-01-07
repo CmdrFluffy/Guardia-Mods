@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item":"gcm:ingot_tin"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gcm:block_tin",
+        "count": 1        
+    }
+}
