@@ -1,0 +1,8 @@
+{
+    "variants":
+    {
+        "variant=test": { "model": "gcm:ore_nether_test" },
+        "variant=azurium": { "model": "gcm:ore_nether_azurium" },
+        "variant=blackrock": { "model": "gcm:ore_nether_blackrock" }
+    }
+}

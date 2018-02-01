@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ingot_test",    
+    "pattern":
+    [
+        "NNN",
+        "NNN",
+        "NNN"
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item":"gcm:nugget_test"
+        }
+    },
+    
+    "result":
+    {
+        "item": "gcm:ingot_test",
+        "count": 1        
+    }
+}

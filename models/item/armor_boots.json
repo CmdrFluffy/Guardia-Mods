@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "variants":
+    {
+        "variant=copper": {"textures": {"layer0": "gcm:items/armor_boots_copper"}},
+        "variant=aluminum": {"textures": {"layer0": "gcm:items/armor_boots_aluminum"}},
+        "variant=tin": {"textures": {"layer0": "gcm:items/armor_boots_tin"}},
+        "variant=azurium": {"textures": {"layer0": "gcm:items/armor_boots_azurium"}}   
+    }
+}

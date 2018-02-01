@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "variant=test": { "model": "gcm:ore_overworld_test" },
+        "variant=copper": { "model": "gcm:ore_overworld_copper" },
+        "variant=bauxite": { "model": "gcm:ore_overworld_bauxite" },
+        "variant=cassiterite": { "model": "gcm:ore_overworld_cassiterite" }
+    }
+}
